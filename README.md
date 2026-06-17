@@ -1,5 +1,7 @@
-## Hi there 👋
-# Hi 👋, I'm sykeriin
+<div align="center">
+<img src="https://github.com/sykeriin/syeriin/assets/hobie-brown-hobie-brown-spider-verse.gif" width="25%" align="right" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&duration=4999&pause=1000&color=580078&background=FFFFFF&center=true&multiline=true&width=435&lines=Hey+hey;I'm+sykeriin;A+CS+Student+and+tech+nerd)](https://git.io/typing-svg)
 
 ### Curious
 
