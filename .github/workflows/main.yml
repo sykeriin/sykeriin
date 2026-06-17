@@ -1,23 +1,20 @@
-name: Generate Data
+name: generate snake animation
 
 on:
   schedule:
-    # Execute every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch: # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main # change to "master" if that's your default branch
 
 jobs:
-  build:
-    name: Jobs to update data
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    
     steps:
-      # Step 1: Check out the repository source code
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      # Step 2: Generate the snake animation files
-      - name: Generate GitHub Contribution Grid Snake
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: sykeriin
@@ -25,8 +22,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Step 3: Deploy the generated images to the output branch
-      - name: Deploy to GitHub Pages
+      - name: push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
