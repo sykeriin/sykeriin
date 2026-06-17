@@ -12,16 +12,16 @@
 <br>
 <pre>
   🛠️  CS Student • Builder • Hackathon regular
-  🐍  Python • OpenCV / YOLOv8 • PyTorch • FastAPI • PostgreSQL • React
-  🧠  EEG-BCI research • Computer vision • Agent / LLM tooling
+  🐍  Python • PyTorch • FastAPI • PostgreSQL • React
+  🧠  ML • BCI research • Computer vision • Agent / LLM tooling
   🥋  Muay Thai • Gym • Running
   🎙️ <a href="https://sykeriin.github.io/personal-website/" target="blank"> personal website </a>(still in the works)
 </pre>
-<br>
+</br>
 <img src="https://raw.githubusercontent.com/sykeriin/sykeriin/main/assets/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f3733524b3839526e6a3941646c413d3d2d313335373239353736342e313736656435303.gif" width="40%" align="left" />
 
-<h2 align="centre">Connect with me:</h2>
-<p align="centre">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://github.com/sykeriin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sykeriin" height="50" width="60" /></a>
 <a href="https://www.linkedin.com/in/durva-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durva-s" height="50" width="60" /></a>
 </p>
@@ -41,6 +41,7 @@
   CloudSense     — FinOps cost anomaly detection & forecasting (Isolation Forest, Prophet).
   LinkedOut      — autonomous recruiting outreach agent. Top 32 / 1000+ at Zenith26.
   RoadSense AI   — multilingual road infra monitoring for Indian cities.
+  PetAlly        — An app for pet owners to recieve reccomendations, find community and services
 </pre>
 
 <!-- SNAKE — fixed to raw.githubusercontent.com on the `output` branch.
