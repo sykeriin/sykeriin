@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/sykeriin/syeriin/assets/hobie-brown-hobie-brown-spider-verse.gif" width="25%" align="right" />
-<img src=["https://readme-typing-svg.demolab.com/demo/?font=Playfair+Display&weight=600&size=30&duration=4999&color=580078&background=FFFFFF&center=true&multiline=true&width=736&height=80&lines=Hey+hey;I'm+sykeriin%2C+a+CS+Student+and+tech+nerd" width="70%" />
+<img src="https://readme-typing-svg.demolab.com/demo/?font=Playfair+Display&weight=600&size=30&duration=4999&color=580078&background=FFFFFF&center=true&multiline=true&width=736&height=80&lines=Hey+hey;I'm+sykeriin%2C+a+CS+Student+and+tech+nerd" width="70%" />
 
 ### Curious
 
