@@ -6,7 +6,7 @@
      https://raw.githubusercontent.com/sykeriin/sykeriin/main/assets/3625810cfb57bf8977a935f5ce73836c.gif (check if your default branch is main or master) -->
 <img src="https://raw.githubusercontent.com/sykeriin/sykeriin/main/assets/hobie-brown-hobie-brown-spider-verse.gif" width="25%" align="right" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=37&duration=4999&color=AB0000&background=FFFFFF00&center=true&multiline=true&width=743&height=99&lines=Hey+hey;I%27m+sykeriin%2C+a+CS+Student+and+tech+nerd" width="70%" />
+<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=37&duration=4999&color=AB0000&background=FFFFFF00&center=true&multiline=true&width=743&height=99&repeat=false&lines=Hey+hey;I%27m+sykeriin%2C+a+CS+Student+and+tech+nerd" width="70%" />
 
 
 <br>
