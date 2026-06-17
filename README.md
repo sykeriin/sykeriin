@@ -11,7 +11,7 @@
 
 <br>
 <pre>
-  🛠️  CS Student • Builder • Hackathon regular
+  🛠️  CS Student • Builder • AI/ML • Fullstack dev
   🐍  Python • PyTorch • FastAPI • PostgreSQL • React
   🧠  ML • BCI research • Computer vision • Agent / LLM tooling
   🥋  Muay Thai • Gym • Running
