@@ -4,7 +4,6 @@
      I can't source actual Hobie Brown / Spider-Punk gifs myself (copyrighted character art), so grab one yourself from Giphy/Tenor,
      upload it into an /assets folder in this repo, then point this at:
      https://raw.githubusercontent.com/sykeriin/sykeriin/main/assets/3625810cfb57bf8977a935f5ce73836c.gif (check if your default branch is main or master) -->
-<img src="https://raw.githubusercontent.com/sykeriin/sykeriin/main/assets/hobie-brown-hobie-brown-spider-verse.gif" width="25%" align="right" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=37&duration=4999&color=AB0000&background=FFFFFF00&center=true&multiline=true&width=743&height=99&repeat=false&lines=Hey+hey;I%27m+sykeriin%2C+a+CS+Student+and+tech+nerd" width="70%" />
 
@@ -18,7 +17,7 @@
   🎙️ <a href="https://sykeriin.github.io/personal-website/" target="blank"> personal website </a>(still in the works)
 </pre>
 </br>
-<img src="https://raw.githubusercontent.com/sykeriin/sykeriin/main/assets/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f3733524b3839526e6a3941646c413d3d2d313335373239353736342e313736656435303.gif" width="40%" align="left" />
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
