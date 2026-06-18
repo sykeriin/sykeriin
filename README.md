@@ -4,7 +4,7 @@
      I can't source actual Hobie Brown / Spider-Punk gifs myself (copyrighted character art), so grab one yourself from Giphy/Tenor,
      upload it into an /assets folder in this repo, then point this at:
      https://raw.githubusercontent.com/sykeriin/sykeriin/main/assets/3625810cfb57bf8977a935f5ce73836c.gif (check if your default branch is main or master) -->
-
+<img src="https://raw.githubusercontent.com/sykeriin/sykeriin/main/assets/Register - Login.gif" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=600&size=37&duration=4999&color=AB0000&background=FFFFFF00&center=true&multiline=true&width=743&height=99&repeat=false&lines=Hey+hey;I%27m+sykeriin%2C+a+CS+Student+and+tech+nerd" width="70%" />
 
 
@@ -13,23 +13,9 @@
   🛠️  CS Student • Builder • AI/ML • Fullstack dev
   🐍  Python • PyTorch • FastAPI • PostgreSQL • React
   🧠  ML • BCI research • Computer vision • Agent / LLM tooling
-  🥋  Muay Thai • Gym • Running
-  🎙️ <a href="https://sykeriin.github.io/personal-website/" target="blank"> personal website </a>(still in the works)
+  🥋  Muay Thai • Guitar • Running
 </pre>
 </br>
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://github.com/sykeriin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sykeriin" height="50" width="60" /></a>
-<a href="https://www.linkedin.com/in/durva-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durva-s" height="50" width="60" /></a>
-</p>
-
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 <h3 align="left">Some things I've built:</h3>
 
@@ -47,5 +33,9 @@
      This will 404 until you add the .github/workflows/snake.yml file (provided separately) to this repo.
      Once that workflow runs once (on push or on its schedule), it creates the `output` branch with this file in it. -->
 <img src="https://raw.githubusercontent.com/sykeriin/sykeriin/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+<p align="center">Connect with me:</p>
+<p align="center">
+<a href="https://github.com/sykeriin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sykeriin" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/durva-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durva-s" height="20" width="30" /></a>
+</p>
 </div>
