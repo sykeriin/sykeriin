@@ -22,11 +22,11 @@
 <pre align="left">
   HAWKEYE        — FOD detection for IAF runways. OpenCV preprocessing + YOLOv8 on a Jetson Orin NX.
   ChainGuard OTA — post-quantum, blockchain-secured OTA firmware updates for vehicles. 🥇 1st place.
-  VERDANT        — circular economy traceability platform for textiles. Submitted to Unisys Innovation Program.
+  VERDANT        — circular economy traceability platform for textiles, Unisys Innovation Program.
   CloudSense     — FinOps cost anomaly detection & forecasting (Isolation Forest, Prophet).
-  LinkedOut      — autonomous recruiting outreach agent. Top 32 / 1000+ at Zenith26.
+  Alter          — voice-first ai agent that understands your future
   RoadSense AI   — multilingual road infra monitoring for Indian cities.
-  PetAlly        — An app for pet owners to recieve reccomendations, find community and services
+  PetAlly        — An app for pet owners to receive recommendations, find community and services
 </pre>
 
 <!-- SNAKE — fixed to raw.githubusercontent.com on the `output` branch.
