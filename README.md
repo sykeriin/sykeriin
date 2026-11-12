@@ -20,7 +20,7 @@
   VERDANT        — circular economy traceability platform for textiles, Unisys Innovation Program.
   CloudSense     — FinOps cost anomaly detection & forecasting (Isolation Forest, Prophet).
   Alter          — voice-first AI agent that understands your future.
-  RoadSense AI   — multilingual road infra monitoring for Indian cities.
+  TREAD          — position-independent KV-cache reuse for LLM inference, with exact RoPE re-rotation.
   PetAlly        — app for pet owners to get recommendations and find community and services.
 </pre>
 
